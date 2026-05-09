@@ -1,5 +1,5 @@
-id = "andromeda"
-name = "Andromeda"
+id = "carbonmeda"
+name = "CarbonMeda"
 version = "1.0.0"
 schema_version = 1
 authors = ["Fyelne", "EliverLara", "cange", "ChocolateNao"]
