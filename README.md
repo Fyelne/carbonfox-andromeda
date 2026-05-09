@@ -1,6 +1,6 @@
-# Zed Theme
+# CarbonFox - Andromeda
 
-This is a theme designed for a sleek and modern interface, inspired by the projects listed below.
+This is a zed theme designed for a sleek and modern interface, inspired by the projects listed below.
 
 ---
 
