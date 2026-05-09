@@ -1,6 +1,6 @@
 id = "andromeda"
 name = "Andromeda"
-version = "0.0.1"
+version = "1.0.0"
 schema_version = 1
 authors = ["Fyelne", "EliverLara", "cange", "ChocolateNao"]
 description = "CarbonFox - Andromeda"
