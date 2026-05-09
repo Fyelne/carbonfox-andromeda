@@ -1,10 +1,10 @@
 {
   "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
-  "name": "Andromeda",
+  "name": "CarbonMeda",
   "author": "Fyelne",
   "themes": [
     {
-      "name": "Andromeda Dark",
+      "name": "CarbonFox - Andromeda",
       "appearance": "dark",
       "style": {
         "background.appearance": "opaque",
@@ -55,9 +55,9 @@
         "panel.indent_guide_active": null,
         "pane.focused_border": "#2A2A2AFF",
         "pane_group.border": null,
-        "scrollbar.thumb.background": "#2A2A2A8C",
+        "scrollbar.thumb.background": "#525253C0",
         "scrollbar.thumb.hover_background": "#525253E3",
-        "scrollbar.thumb.border": "#3A3F4C77",
+        "scrollbar.thumb.border": "#525253E3",
         "scrollbar.track.background": "#2A2A2A36",
         "scrollbar.track.border": "#1B1D23",
         "editor.foreground": "#F2F4F8FF",
@@ -76,13 +76,13 @@
         "editor.indent_guide": "#252525E3",
         "editor.indent_guide_active": "#525253E3",
         "editor.document_highlight.read_background": "#434A58FF",
-        "editor.document_highlight.write_background": "#4D5465",
+        "editor.document_highlight.write_background": "#00000000",
         "editor.document_highlight.bracket_background": "#2A2A2AE3",
-        "terminal.background": "#23262e",
+        "terminal.background": "#16161600",
         "terminal.foreground": "#F2F4F8FF",
         "terminal.ansi.background": "#23262e",
-        "terminal.bright_foreground": null,
-        "terminal.dim_foreground": null,
+        "terminal.bright_foreground": "#F9FBFFFF",
+        "terminal.dim_foreground": "#B6B8BBFF",
         "terminal.ansi.black": null,
         "terminal.ansi.bright_black": null,
         "terminal.ansi.dim_black": null,
@@ -571,7 +571,7 @@
         "minimap.thumb.active_background": "#3DDBD957",
         "panel.overlay_background": "#0C0C0CE3",
         "panel.overlay_hover": "#161616E3",
-        "minimap.thumb.background": "#2A2A2A8C",
+        "minimap.thumb.background": "#252525E3",
         "minimap.thumb.hover_background": "#525253E3",
         "minimap.thumb.border": "#3A3F4C77"
       }
